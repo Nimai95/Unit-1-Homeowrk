@@ -30,7 +30,7 @@ This project was trying to make customer service better, for all retail clients,
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-Nest wealth’s customers includes financial institions like national bank, individual investors, financial advisors and employers. There is no specific informationa bout the market size of these set of customers. Because they can be general customers to a major players of the financial world. 
+Nest wealth’s customers includes financial institions like national bank, individual investors, financial advisors and employers. There is no specific information about the market size of these set of customers. Because they can be general customers to a major players of the financial world. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -62,7 +62,7 @@ In recent years, the popularity of using robo-advisors in wealth management has 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-Some of the metrics that they use is the to measure their success is their workplace for two years. The company really takes care of their employees. According to the an article posted on the Nest wealth, their employees feel whatever they work in their company, its their own work, and receive full support from all the senior members.
+Some of the metrics that they use is the to measure their success is their employee satisfaction. Nest-wealth has become the best workplace for two years. The company really takes care of their employees. According to the an article posted on the Nest wealth website, their employees feel whatever they work in their company, its their own work, and receive full support from all the senior members.
 
 * How is your company performing relative to competitors in the same domain?
 
